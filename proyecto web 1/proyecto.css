@@ -1,0 +1,22 @@
+body{
+    background-color: #E8EDFF;
+}
+header{
+  background: #324796;
+  background: linear-gradient(90deg, rgba(50, 71, 150, 1) 0%, rgba(65, 121, 204, 1) 50%, rgba(50, 71, 150, 1) 100%);
+}
+h2{
+    padding: 20px;
+}
+.pequeña-descripcion{
+    text-align: center;
+    color: #ffff;
+}
+.contenedor-chico{
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    height: 250px;
+    margin-left: 450px;
+    background-color: #b3b3b350;
+}
